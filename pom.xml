@@ -5,12 +5,16 @@
     <artifactId>junit-alone</artifactId>
     <version>1.0.0</version>
 
-    <name>Sample Parameter-less Maven Plugin</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+
+    <name>junit alone</name>
+    <url>https://github.com/johnyannj/junit-alone</url>
+    <description>Use different classloaders for every test case..</description>
+
 
     <dependencies>
         <dependency>
