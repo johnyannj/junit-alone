@@ -17,7 +17,7 @@ maven:
 ```
 <groupId>com.zhaoyanblog</groupId>  
 <artifactId>junit-alone</artifactId>  
-<version>1.0.0</version>
+<version>1.0.1-SNAPSHOT</version>
 ```
 Replace Your Runner with AloneRunner.class, and put it to @AloneWith:
 
