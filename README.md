@@ -3,6 +3,8 @@
 
 Use different classloaders for every test case.
 
+[![Build Status](https://travis-ci.org/johnyannj/junit-alone.svg?branch=master)](https://travis-ci.org/johnyannj/junit-alone)
+
 ## Compile
 `
  mvn clean package
