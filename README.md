@@ -8,7 +8,7 @@ Use different classloaders for every test case.
  mvn clean package
 `
 
-## Useage
+## Usage
 
 maven:
 
